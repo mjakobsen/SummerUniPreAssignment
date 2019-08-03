@@ -57,7 +57,7 @@ namespace SummerUniPreAssignment.Controllers
             cart.Items.Remove(item);
 
             _context.SaveChanges();
-            var lol = "lol";
+
             return Ok(cart);
         }
     }
