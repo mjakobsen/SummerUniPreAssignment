@@ -1,0 +1,11 @@
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\bin\Debug\netcoreapp2.2\SummerUniClient.deps.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\bin\Debug\netcoreapp2.2\SummerUniClient.runtimeconfig.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\bin\Debug\netcoreapp2.2\SummerUniClient.runtimeconfig.dev.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\bin\Debug\netcoreapp2.2\SummerUniClient.dll
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.csproj.CoreCompileInputs.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.AssemblyInfoInputs.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.AssemblyInfo.cs
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.csprojAssemblyReference.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\bin\Debug\netcoreapp2.2\SummerUniClient.pdb
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.dll
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniClient\SummerUniClient\obj\Debug\netcoreapp2.2\SummerUniClient.pdb

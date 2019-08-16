@@ -1,0 +1,9 @@
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\bin\Debug\netcoreapp2.2\Platform.deps.json
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\bin\Debug\netcoreapp2.2\Platform.dll
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.csprojAssemblyReference.cache
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.csproj.CoreCompileInputs.cache
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.AssemblyInfoInputs.cache
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.AssemblyInfo.cs
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\bin\Debug\netcoreapp2.2\Platform.pdb
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.dll
+C:\Users\MichaelJakobsen\source\repos\Platform\Platform\obj\Debug\netcoreapp2.2\Platform.pdb

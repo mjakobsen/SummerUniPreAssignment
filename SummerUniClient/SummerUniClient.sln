@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerUniClient", "SummerUniClient\SummerUniClient.csproj", "{D5C47F6A-A46D-433A-8258-3505A395D5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C47F6A-A46D-433A-8258-3505A395D5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C47F6A-A46D-433A-8258-3505A395D5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C47F6A-A46D-433A-8258-3505A395D5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C47F6A-A46D-433A-8258-3505A395D5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94A83C9-5C12-4211-9EA7-CFAA2944EE71}
+	EndGlobalSection
+EndGlobal

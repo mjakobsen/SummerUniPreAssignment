@@ -1,0 +1,14 @@
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\bin\Debug\netcoreapp2.2\SummerUniPreAssignment.deps.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\bin\Debug\netcoreapp2.2\SummerUniPreAssignment.runtimeconfig.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\bin\Debug\netcoreapp2.2\SummerUniPreAssignment.runtimeconfig.dev.json
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\bin\Debug\netcoreapp2.2\SummerUniPreAssignment.dll
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\bin\Debug\netcoreapp2.2\SummerUniPreAssignment.pdb
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.csprojAssemblyReference.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.RazorAssemblyInfo.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.RazorAssemblyInfo.cs
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.AssemblyInfoInputs.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.AssemblyInfo.cs
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.dll
+C:\Users\MichaelJakobsen\Desktop\SummerUniPreAssignment-master\SummerUniPreAssignment-master\SummerUniPreAssignment\obj\Debug\netcoreapp2.2\SummerUniPreAssignment.pdb
